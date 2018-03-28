@@ -1,0 +1,4 @@
+/opt/clion-2017.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/gspringhart/springhart/algo2/clase2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gspringhart/springhart/algo2/clase2/cmake-build-debug
